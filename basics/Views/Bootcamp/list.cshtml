@@ -1,0 +1,17 @@
+@model List<Bootcamp>
+            @foreach (var bootcamp in Model)
+            {
+            <div class="card mb-3" id="bootcamp_@bootcamp.Id">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="~/img/@bootcamp.Image" alt="" class="img-fluid rounded-start" style="width: 420px;">
+                        </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                        <h2 class="card-title">@bootcamp.Title</h2>
+                        <p class="card-text">@bootcamp.Description</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
