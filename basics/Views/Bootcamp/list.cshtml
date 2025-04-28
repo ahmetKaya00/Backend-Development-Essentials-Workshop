@@ -1,6 +1,7 @@
 @model List<Bootcamp>
             @foreach (var bootcamp in Model)
             {
+                @if(bootcamp.isActive){
             <div class="card mb-3" id="bootcamp_@bootcamp.Id">
                 <div class="row">
                     <div class="col-md-4">
@@ -8,10 +9,13 @@
                         </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                        <h2 class="card-title">@bootcamp.Title</h2>
+                            <a asp-controller="Bootcamp" asp-action="Details" asp-route-id="@bootcamp.Id">
+                                <h2 class="card-title">@bootcamp.Title</h2>
+                            </a>
                         <p class="card-text">@bootcamp.Description</p>
                         </div>
                     </div>
                 </div>
             </div>
+            }
             }

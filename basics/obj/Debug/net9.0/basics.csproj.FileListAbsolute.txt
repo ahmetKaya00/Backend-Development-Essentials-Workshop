@@ -17,7 +17,6 @@ C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\o
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\scopedcss\bundle\basics.styles.css
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\scopedcss\projectbundle\basics.bundle.scp.css
-C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\compressed\8wqu4ppjvo-b9sayid5wm.gz
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\compressed\axeuv6o7e0-61n19gt1b8.gz
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\compressed\j3g49lucto-xtxxf3hu2r.gz
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\compressed\6ffh29unxx-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\o
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\basics.pdb
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\basics.genruntimeconfig.cache
 C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\ref\basics.dll
+C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\basics.sourcelink.json
+C:\Users\Kaya3\Documents\GitHub\Backend-Development-Essentials-Workshop\basics\obj\Debug\net9.0\compressed\8wqu4ppjvo-csyemt831f.gz
