@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CQ8zaOU35+Ue06DqUZoQCiWyPEie7krV+SuBvi5hzqs=",
+  "Hash": "H4baOge+q46I/UMRMNtVxkJ+YUlj3Pao152hYlkV8q0=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -1445,6 +1445,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "teffht12uw",
+      "Integrity": "xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\1.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -1527,6 +1548,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\a9be733f-55cf-4e4c-9927-fb27512d9def.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/a9be733f-55cf-4e4c-9927-fb27512d9def#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "teffht12uw",
+      "Integrity": "xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a9be733f-55cf-4e4c-9927-fb27512d9def.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\abcc997e-83b0-4c25-ac95-de045692f844.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/abcc997e-83b0-4c25-ac95-de045692f844#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "teffht12uw",
+      "Integrity": "xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\abcc997e-83b0-4c25-ac95-de045692f844.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/cdca4107-b201-4934-a43c-6b6c69a87a9a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "teffht12uw",
+      "Integrity": "xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg"
     },
     {
       "Identity": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\js\\site.js",
@@ -4004,6 +4088,88 @@
       ]
     },
     {
+      "Route": "img/0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.teffht12uw.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "teffht12uw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/0d7309b6-ce9f-4100-8a49-6f5d0cfdf1c3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
       "Route": "img/1.jpg",
       "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\1.jpg",
       "Selectors": [],
@@ -4328,6 +4494,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-LInhSfG5P5A0bouswh9Jx50d8FyrAMizr1Mbr9XNnPw="
+        }
+      ]
+    },
+    {
+      "Route": "img/a9be733f-55cf-4e4c-9927-fb27512d9def.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\a9be733f-55cf-4e4c-9927-fb27512d9def.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 11:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/a9be733f-55cf-4e4c-9927-fb27512d9def.teffht12uw.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\a9be733f-55cf-4e4c-9927-fb27512d9def.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 11:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "teffht12uw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a9be733f-55cf-4e4c-9927-fb27512d9def.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/abcc997e-83b0-4c25-ac95-de045692f844.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\abcc997e-83b0-4c25-ac95-de045692f844.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/abcc997e-83b0-4c25-ac95-de045692f844.teffht12uw.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\abcc997e-83b0-4c25-ac95-de045692f844.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "teffht12uw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/abcc997e-83b0-4c25-ac95-de045692f844.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
+        }
+      ]
+    },
+    {
+      "Route": "img/cdca4107-b201-4934-a43c-6b6c69a87a9a.teffht12uw.jpg",
+      "AssetFile": "C:\\Users\\Kaya3\\Documents\\GitHub\\Backend-Development-Essentials-Workshop\\FormsApp\\wwwroot\\img\\cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 12:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "teffht12uw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cdca4107-b201-4934-a43c-6b6c69a87a9a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xdAcAd/C559gxXje4pK4ytZX4iJekgHjc4YmXCDYtC0="
         }
       ]
     },

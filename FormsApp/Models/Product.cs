@@ -7,11 +7,15 @@ namespace FormsApp.Models{
         [Display(Name ="Ürün Id")]
         public int ProductId { get; set; }
 
+        [Required]
         [Display(Name ="Ürün Adı")]
-        public string Name {get;set;} = string.Empty; 
+        [StringLength(100)]
+        public string? Name {get;set;} = string.Empty; 
         
+        [Required(ErrorMessage = "Ürün Fiyatı boş bırakılamaz!")]
         [Display(Name ="Ürün Fiyatı")]
-        public decimal Price {get;set;}
+        [Range(0,150000)]
+        public decimal? Price {get;set;}
         
         [Display(Name ="Ürün Görseli")]
         public string Image {get;set;} = string.Empty;
