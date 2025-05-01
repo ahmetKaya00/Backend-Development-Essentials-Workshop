@@ -1,0 +1,13 @@
+@model Kurs
+
+<h2>Kurs Ekleme</h2>
+
+<form asp-action="Create" asp-controller="Kurs" method="post">
+    <div class="mb-3">
+        <label asp-for="Baslik" class="form-label"></label>
+        <input asp-for="Baslik" class="form-control">
+    </div>
+    
+
+    <button type="submit" class="btn btn-secondary">Kaydet</button>
+</form>    
